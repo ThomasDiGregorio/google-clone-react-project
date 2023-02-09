@@ -100,7 +100,7 @@ const SearchPage = () => {
         <div>
             <SearchPageHeader>
                 <Link to="/">
-                    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Google_2011_logo.png/640px-Google_2011_logo.png" />
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Google_2011_logo.png/640px-Google_2011_logo.png" alt='google-logo'/>
                 </Link>
                 <div>
                     <Search hide />
