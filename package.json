@@ -1,7 +1,7 @@
 {
   "name": "google-clone",
   "version": "0.1.0",
-  "homepage": "https://ThomasDiGregorio.github.io/goo/google-clone-react-project-gh-pages",
+  "homepage": "https://ThomasDiGregorio.github.io/google-clone-react-project-gh-pages",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.12.4",
@@ -43,6 +43,7 @@
     ]
   },
   "devDependencies": {
+    "gh-pages": "^5.0.0",
     "netlify-cli": "^12.13.1"
   }
 }
