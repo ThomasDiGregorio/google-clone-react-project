@@ -1,6 +1,7 @@
 {
   "name": "google-clone",
   "version": "0.1.0",
+  "homepage": "https://ThomasDiGregorio.github.io/goo/google-clone-react-project-gh-pages",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.12.4",
@@ -17,7 +18,9 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "npm run build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
