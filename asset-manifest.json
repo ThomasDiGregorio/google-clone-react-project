@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/goo/google-clone-react-project-gh-pages/static/css/main.ceae699f.css",
+    "main.js": "/goo/google-clone-react-project-gh-pages/static/js/main.b3edf480.js",
+    "index.html": "/goo/google-clone-react-project-gh-pages/index.html",
+    "main.ceae699f.css.map": "/goo/google-clone-react-project-gh-pages/static/css/main.ceae699f.css.map",
+    "main.b3edf480.js.map": "/goo/google-clone-react-project-gh-pages/static/js/main.b3edf480.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ceae699f.css",
+    "static/js/main.b3edf480.js"
+  ]
+}
