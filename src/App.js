@@ -1,7 +1,12 @@
-import './App.css';
-import Home from './components/Home';
-import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
-import SearchPage from './components/SearchPage';
+import "./App.css";
+import Home from "./components/Home.js";
+import {
+  BrowserRouter as Router,
+  Switch,
+  Route,
+  Navigate,
+} from "react-router-dom";
+import SearchPage from "./components/SearchPage.js";
 
 function App() {
   return (
